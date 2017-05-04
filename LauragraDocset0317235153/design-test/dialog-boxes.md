@@ -1,5 +1,5 @@
-# Dialog boxes in Office Add-ins
-
+# HTML Canvases – Dialog
+ 
 Dialogs are surfaces that float above the active Office application window. Dialogs allow you to provide additional screen space for tasks such as sign-in pages that cannot be opened directly in a task pane, confirming an action taken by a user that could potentially destroy document data, and host videos that may be too small if confined to a task pane for example.
 
 **Example: Dialog**
@@ -21,4 +21,5 @@ For details, see [Office Add-ins platform overview](https://dev.office.com/docs/
 
 - [UX Pattern Sample](https://office.visualstudio.com/DefaultCollection/OC/_git/GettingStarted-FabricReact)
 - [GitHub Development Resources](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code)
+
 

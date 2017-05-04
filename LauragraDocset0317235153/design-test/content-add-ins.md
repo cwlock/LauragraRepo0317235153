@@ -1,4 +1,5 @@
 # Content Office Add-ins
+
  
 Content add-ins are surfaces that can be embedded directly into Word, Excel, or PowerPoint documents. Content add-ins allow users to utilize interface controls that run code to modify documents or display data from a data source for example. Content add-ins should be utilized when embedding functionality directly into the document is needed and/or wanted.  
 
@@ -41,4 +42,5 @@ For details, see [Office Add-ins platform overview](https://dev.office.com/docs/
 
 - [UX Pattern Sample](https://office.visualstudio.com/DefaultCollection/OC/_git/GettingStarted-FabricReact)
 - [GitHub Development Resources](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code)
+
 

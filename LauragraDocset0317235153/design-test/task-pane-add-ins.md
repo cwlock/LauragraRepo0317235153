@@ -48,3 +48,4 @@ For details, see [Office Add-ins platform overview](https://dev.office.com/docs/
 - [UX Pattern Sample](https://office.visualstudio.com/DefaultCollection/OC/_git/GettingStarted-FabricReact)
 - [GitHub Development Resources](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code)
 
+
